@@ -8,6 +8,9 @@ This is the source code of the public API from [iptoasn.com](https://iptoasn.com
 
 Requires [rust](https://www.rust-lang.org/).
 
+# Default URL:
+[http:localhost:53661/v1/as/ip/](http:localhost:53661/v1/as/ip/)
+
 # Usage:
 
 ```sh
